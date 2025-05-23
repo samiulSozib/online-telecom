@@ -1005,6 +1005,9 @@
     "ORDER_STATUS_CHANGED_FAILED": "تغییر وضعیت سفارش با شکست مواجه شد",
     "ADMIN_USER": "کاربر مدیر",
 
-    "LOGOUT_SUCCESS": "خروج با موفقیت انجام شد"
+    "LOGOUT_SUCCESS": "خروج با موفقیت انجام شد",
+
+    "TELEGRAM_SYNC_SUCCESS": "گروه‌های تلگرام با موفقیت همگام‌سازی شدند.",
+  "TELEGRAM_SYNC_FAILED": "هنگام همگام‌سازی گروه‌های تلگرام خطایی رخ داد."
 
 }

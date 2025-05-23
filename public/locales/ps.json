@@ -1005,6 +1005,9 @@
     "ORDER_STATUS_CHANGED_FAILED": "د سفارش حالت بدلول پاتې شول",
     "ADMIN_USER": "اداري کاروونکی",
 
-    "LOGOUT_SUCCESS": "په بریالیتوب سره وتل"
+    "LOGOUT_SUCCESS": "په بریالیتوب سره وتل",
+
+    "TELEGRAM_SYNC_SUCCESS": "د ټیلیګرام ګروپونه بریالیتوب سره همغږي شول.",
+  "TELEGRAM_SYNC_FAILED": "د ټیلیګرام ګروپونو د همغږي کولو پر مهال تېروتنه وشوه."
 
 }
