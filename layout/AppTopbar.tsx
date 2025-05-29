@@ -55,7 +55,7 @@ const AppTopbar = forwardRef<AppTopbarRef>((props, ref) => {
     const logout = () => {
         dispatch(signOut());
         Swal.fire({
-            title: t('LOGOUT_SUCCESS'),
+            title: "Logout Success!",
             icon: "success",
             draggable: true
             });

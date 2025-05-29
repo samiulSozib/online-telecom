@@ -20,6 +20,7 @@ const Settings = () => {
     // Simulated API call function
     const syncTelegramGroups = async () => {
         setLoading(true);
+        console.log(token)
 
         try {
             // Call your actual API here
